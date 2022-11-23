@@ -22,4 +22,4 @@ first wins the game
 The rules are the same as Level 2 but in this level, there are wandering ghosts that appear randomly. If the user hits the wandering ghost, they get 1 point.
 If the computer hits the wandering ghost, the point will be removed from the user. 
 
-Video Demo: https://www.youtube.com/watch?v=saYAQrAT0_o
+Video Demo: https://www.youtube.com/watch?v=OE19p7EBHQI
